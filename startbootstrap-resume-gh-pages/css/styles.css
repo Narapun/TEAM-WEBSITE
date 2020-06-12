@@ -10118,7 +10118,6 @@ section.resume-section {
 }
 section.resume-section .resume-section-content {
   width: 100%;
-  background-color: #007bff;
 }
 
 @media (min-width: 768px) {
